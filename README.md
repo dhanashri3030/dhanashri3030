@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Dhanashri Shegane 👋
 
-<!--
-**dhanashri3030/dhanashri3030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Telecommunication Engineering graduate with a Diploma in Computer Engineering  
+🔬 6 months of R&D experience building and validating AI-powered software products  
+💻 I enjoy building end-to-end application workflows — from secure authentication to REST APIs to responsive frontends  
+🐛 Strong focus on debugging, testing, and improving application reliability  
 
-Here are some ideas to get you started:
+**🛠️ Tech Stack**
+- **Languages:** Java, Python, SQL
+- **Backend:** FastAPI, REST APIs
+- **Frontend:** React, HTML, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD Pipelines, Linux
+- **Testing:** JUnit, Postman, Functional & Regression Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I've worked on**
+- Built an AI-powered civic complaint classification system (DistilBERT, 90%+ accuracy) with Python, FastAPI, React & MongoDB
+- Developed a full-stack Doctor Appointment SaaS platform with JWT auth, role-based access control & 10+ REST APIs
+- Automated a 3-stage CI/CD pipeline using Jenkins, Maven, Docker & JUnit
+
+📫 Reach me: shegane.dhanashri30@gmail.com | [LinkedIn](https://linkedin.com/in/dhanashri-shegane-291896347)
